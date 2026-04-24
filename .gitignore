@@ -1,0 +1,23 @@
+# data outputs
+data/
+outputs/
+scratch/
+
+# optional raw data (recommended for most cases)
+data/raw/
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# environments
+.env
+.venv/
+env/
+
+# OS/editor
+.DS_Store
+.vscode/
