@@ -2,9 +2,6 @@
 outputs/
 scratch/
 
-# optional raw data (recommended for most cases)
-data/raw/
-
 # python cache
 __pycache__/
 *.pyc
